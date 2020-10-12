@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 10px;
+    font-family: 'source sans pro', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    width: 100%;
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 0 2.4rem;
+}
